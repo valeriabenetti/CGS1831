@@ -1,0 +1,35 @@
+body {
+	background-color: #f5f5f5;
+	color: #3f2860;
+	font-family: verdana, arial, sans-serif;
+}
+header {
+	background-color: #9BC1C2;
+}
+h1 {
+	background-color: #9BC1C2;
+	color: #191970;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	text-align: center;
+}
+nav {
+	text-align: center;
+	font-weight: bold;
+}
+nav a {
+	text-decoration: none;
+}
+.studio {
+	font-style: italic;
+}
+footer {
+	background-color: #9BC1C2;
+	font-size: .60em;
+	font-style: italic;
+	text-align: center;
+}
+#wrapper {
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+}
