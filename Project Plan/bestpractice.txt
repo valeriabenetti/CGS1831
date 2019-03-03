@@ -1,0 +1,86 @@
+Web Design Best Practices Checklist
+Background Information
+URL:
+Target Audience:
+Purpose:
+Page Layout
+❏    Appealing to target audience
+❏    Consistent site header/logo
+❏    Consistent navigation area
+❏    Informative page title that includes the company/organization/site name
+❏    Page footer area includes copyright, last update, contact e-mail address
+❏    Good use of basic design principles: repetition, contrast, proximity, and alignment
+❏    Displays without horizontal scrolling at 1024×768 and higher resolutions
+❏    Balance of text/graphics/white space on page
+❏    Good contrast between text and background
+❏    Header and nav occupy less than ¼ to ⅓ of the browser at 1024×768 resolution
+❏    Home page has compelling, interesting information above the fold at 1024×768
+❏    Home page downloads within ten seconds on dial-up connection
+❏    Viewport meta tag is used to enhance display on smartphones
+❏    Media queries configure responsive page layout for smartphone and tablet display
+Browser Compatibility
+❏   Displays on popular/current versions of Microsoft Edge
+❏   Displays on current versions of Firefox
+❏   Displays on current versions of Google Chrome
+❏   Displays on current versions of Opera
+❏   Displays on current versions of Safari (both Mac and Windows)
+❏   Displays on popular/current versions of Internet Explorer
+❏   Displays on popular mobile devices (including tablets and smartphones)
+Navigation
+❏   Main navigation links are clearly and consistently labeled
+❏   Navigation is easy to use for target audience
+❏   If main navigation uses images, clear text links are in the footer section of the page
+❏   If main navigation uses media, clear text links are in the footer section of the page
+❏   Navigation is structured in an unordered list
+❏   Navigation aids, such as site map, skip navigation link, or breadcrumbs are used
+❏   All navigation hyperlinks "work" — are not broken
+Color and Graphics
+❏   Color scheme is limited to a maximum of three or four colors plus neutrals
+❏   Color is used consistently
+❏   Text color has sufficient contrast with background color
+❏   Color is not used alone to convey meaning
+❏   Use of color and graphics enhances rather than distracts from the site
+❏   Graphics are optimized and do not significantly slow download
+❏   Each graphic used serves a clear purpose
+❏   Image tags use the alt attribute to configure an alternate text description
+❏   Animated images do not distract from the site and do not endlessly repeat
+Multimedia
+❏   Each audio/video/Flash file used serves a clear purpose
+❏   Any animation used enhances rather than distracts
+❏   Captions are provided for each audio or video file used
+❏  If needed, links to downloads for media plug-ins are provided
+Content Presentation
+❏   Common fonts such as Arial or Times New Roman are used
+❏   No more than one web font is used
+❏   Techniques of writing for the Web are used: headings, bullet points, brief paragraphs
+❏   Fonts, font sizes, and font colors are consistently used
+❏   Content provides meaningful, useful information
+❏   Content is organized in a consistent manner
+❏   Information is easy to find (minimal clicks)
+❏   Timeliness: The date of the last revision and/or copyright date is accurate
+❏   Content does not include outdated material
+❏   Content is free of typographical and grammatical errors
+❏   Content provides links to other useful sites
+❏   Avoids the use of "Click here" when writing text for hyperlinks
+❏   Hyperlinks use a consistent set of colors to indicate visited/nonvisited status
+❏   If graphics are used to convey meaning, the alternate text equivalent is provided
+❏   If media is used to convey meaning, the alternate text equivalent is provided
+Functionality
+❏   All internal hyperlinks work
+❏   All external hyperlinks work
+❏   All forms function as expected
+❏   No JavaScript errors are generated
+Accessibility
+❏   If main navigation uses images or other media, text links are in the footer section of the page
+❏   Navigation is structured in an unordered list
+❏   Navigation aids, such as site map, skip navigation link, or breadcrumbs are used
+❏   Color is not used alone to convey meaning
+❏   Text color has sufficient contrast with background color
+❏   Image elements use the alt attribute to configure an alternate text description
+❏   If graphics are used to convey meaning, the alternate text equivalent is provided
+❏   If media is used to convey meaning, the alternate text equivalent is provided
+❏   Captions are provided for each audio or video file used
+❏   Use attributes designed to improve accessibility such as title when appropriate
+❏   Use the id and headers attributes to improve the accessibility of table data
+❏   Configure frames with frame titles and place meaningful content in the noframes area
+❏   The html element's lang attribute indicates the spoken

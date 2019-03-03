@@ -1,0 +1,60 @@
+Website Project Plan Template
+
+Client Name
+	•	John and Jane Doe
+Website Descriptions
+	•	This website represents …
+Client Expectations
+    Easy to find contact information: They want to make sure that the clients have a way to find their phone number, email. Maybe a contact form/link?
+    A Navigation that is clear for clients: Home, Services, Shop, Contact Us, About Us
+    Security when clients are purchasing products. They want to make sure that when the client is making a purchase, that the clients's information isn't taken.
+
+	•	Determine the top three expectations your client has for the website. Below are a few websites that can help you and your “fictitious client” decide what is needed on the website.
+	•	http://mashable.com/2012/02/09/website-must-haves/#zH6oax8k.iqW 
+	•	https://www.entrepreneur.com/article/217499 
+Target Audience
+	•	Pet owners who are looking for an affordable but chic pet store where they can buy their pets clothes, toys, etc for their fur babies.
+Competititors
+	•	Locate three potential competitors (or similar websites)
+
+    St. Pete Dog Boutique
+        Strength 1:Shows the prices of their services
+        Strength 2:Has a good layout on all the pages
+        Weakness 1: Contact information doesn't have an email and phone number isn't made obvious.
+        Weakness 2: Top and bottom nav bars aren't aligned.
+    Pawsitively Posh Pooch
+        Strength 1: Dark tone colors that doesn't flash the eyes
+        Strength 2: Contact info located at the bottom
+        Weakness 1: FAQ Section of the site not set properly. FAQ header blocked behind the side nav bar
+        Weakness 2: Main body of the page is too thin and header's font style makes it hard to read 
+    Woof Gang Bakery
+        Strength 1: Revoling Image on the main page that shows both the inside and outside of the store, along with images of their clients
+        Strength 2: Great to near perfect Layout
+        Weakness 1: Doesn't show what each location does in terms of Services
+        Weakness 2: Bright pink colors that does bother the eyes
+
+
+
+	•	Use the Web Design Best Practices Checklist to analyze the competition. 
+	•	For each competitor, note two strengths and two weaknesses.
+	•	Competitor 1 is www.ABCompany.com
+	•	Strength 1
+	•	Strength 2
+	•	Weakness 1
+	•	Weakness 2
+
+Written Summary
+	•	Create a written analysis summary of your results for the four analysis steps above.
+Site Map
+	•	Create a site map for your client similar to figure 5.3 on page 207 in your text book.
+	•	Use any application to create a site map: Microsoft Word, Microsoft PowerPoint, or Adobe Photoshop. Checkout -- Word SmartArt (https://support.office.com/)
+Wireframe Page Layout
+	•	Create a Wireframe Page Layout sample that represents the structure of you proposed site (See pages 227-228). Use any of the following applications to create your Wireframe Page Layout: Microsoft PowerPoint, Microsoft Word, or Adobe Photoshop. Dummy Text Generator
+Color Scheme
+	•	Choose color scheme
+	•	Justify your selection. (see pages 208-214 and review links on pages 214-217) 
+Page Layout
+	•	Choose page layout type fixed or liquid. Justify your selection. (see pages 229-230).  
+Font
+	•	Choose font face, weight, and size for headings, subheadings, main content, footer, etc. 
+	•	Justify your selection. (see pages 213-214)
